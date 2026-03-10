@@ -1,6 +1,6 @@
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip } from 'recharts'
 import { useState, useEffect } from 'react'
-
+//FIX THIS IT IS FAKEEEEE
 export default function LiveData() {
   const [data, setData] = useState([])
 
