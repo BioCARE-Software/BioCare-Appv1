@@ -53,3 +53,15 @@ You need to make the custom app here to run the BLE because react-native-ble-plx
 ## Additional Notes
 
 Feel free to add anything useful here for the team!
+
+
+
+
+
+
+
+
+//PARDIS
+
+work on the EAS THING 
+and also work on sending the info from the computer (preset manager) to the ESP32 in a packet for each finger

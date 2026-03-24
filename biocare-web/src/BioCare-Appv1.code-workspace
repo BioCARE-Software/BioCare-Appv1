@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../BioCare-App/BioCareESP32"
+		}
+	],
+	"settings": {}
+}
