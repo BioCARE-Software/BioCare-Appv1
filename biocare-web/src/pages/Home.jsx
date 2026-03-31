@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div style={{ textAlign: 'center', padding: '100px 20px' }}>
       <h1 style={{ fontSize: '4rem', marginBottom: '80px' }}>BioCare</h1>
-      <Link to="/presets"><button style={btn}>PRESETS</button></Link>
+      <Link to="/presets"><button style={btn}>PRESET MANAGER</button></Link>
       <Link to="/precision-grip"><button style={btn}>CREATE GESTURE</button></Link>
       <Link to="/live-data"><button style={btn}>LIVE DATA</button></Link>
       <Link to="/settings"><button style={btn}>SETTINGS</button></Link>
