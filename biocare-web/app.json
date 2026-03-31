@@ -1,5 +1,26 @@
 {
   "plugins": [
     "react-native-ble-plx"
-  ]
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "33c8bc6e-775d-445a-9fda-c269b59dd7eb"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.pardis21.biocareweb"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "33c8bc6e-775d-445a-9fda-c269b59dd7eb"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.pardis21.biocareweb",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
 }
