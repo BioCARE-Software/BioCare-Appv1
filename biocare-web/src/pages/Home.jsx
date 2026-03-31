@@ -6,6 +6,7 @@ export default function Home() {
       <h1 style={{ fontSize: '4rem', marginBottom: '80px' }}>BioCare</h1>
       <Link to="/presets"><button style={btn}>PRESET MANAGER</button></Link>
       <Link to="/precision-grip"><button style={btn}>CREATE GESTURE</button></Link>
+      <Link to="/custom-gestures"><button style={btn}>CUSTOM GESTURES</button></Link>
       <Link to="/live-data"><button style={btn}>LIVE DATA</button></Link>
       <Link to="/settings"><button style={btn}>SETTINGS</button></Link>
     </div>
